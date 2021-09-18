@@ -15,7 +15,7 @@
 
 #### 😄 Pronouns: He/Him <br>
   
-#### 🤖 My go-to lannguages: C++, Python
+#### 🤖 My go-to languages: C++, Python
 
 #### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
 
