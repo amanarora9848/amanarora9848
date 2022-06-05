@@ -18,6 +18,10 @@
 #### 🤖 My go-to languages: C++, Python
 
 #### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
+  
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 #### 🙏 Thanks for visiting!
 
