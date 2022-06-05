@@ -20,7 +20,7 @@
 #### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
   
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848)](https://github.com/amanarora9848)  
 
 
 #### 🙏 Thanks for visiting!
