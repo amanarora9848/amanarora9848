@@ -17,6 +17,8 @@
   
 #### 🤖 My go-to languages: C++, Python
 
+#### My work on [Automotive Grade Linux](https://www.automotivelinux.org/) at this [Gerrit link](https://gerrit.automotivelinux.org/gerrit/q/status:merged+owner:amanarora_09).
+
 #### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
   
 
