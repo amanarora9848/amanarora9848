@@ -1,23 +1,23 @@
-<div align="center" style="border-style:solid">
+<!--<div align="center" style="border-style:solid">
 
-<div style="margin:9px">
+<div style="margin:9px">-->
 
-## Hello there! 👋
-</div>
-
-<img src="planets.gif" width="45%" height="45%" border=2px style="border-radius:9px; margin:2px">
-
-<hr width=90%>
-
-### **My name is Aman Arora.**
-
-<hr width=90%>
+## Hi, My name is Aman Arora 👋
+<!--</div>-->
 
 #### 😄 Pronouns: He/Him <br>
   
-#### 🤖 My go-to languages: C++, Python
+#### 🤖 Currently: [JEMARO](https://jemaro.ec-nantes.fr/english-version/about) (M.S., Robotics) Student at University of Genoa, Italy.
+  
+#### 🖥️ My go-to languages: C++, Python
 
 #### 🚗 My work on [Automotive Grade Linux](https://www.automotivelinux.org/) at the [AGL Gerrit Code Review](https://gerrit.automotivelinux.org/gerrit/q/status:merged+owner:amanarora_09).
+  
+<hr width=90%>
+  
+<img src="planets.gif" width="45%" height="45%" border=2px style="border-radius:9px; margin:2px">
+
+<hr width=90%>
 
 #### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
   
@@ -28,4 +28,4 @@
 #### 🙏 Thanks for visiting!
 
 </p>
-</div>
+<!--</div>-->
