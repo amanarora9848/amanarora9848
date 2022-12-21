@@ -15,11 +15,11 @@
   
 <hr width=90%>
   
-<img src="planets.gif" width="45%" height="45%" border=2px style="border-radius:9px; margin:2px">
+[<img src="planets.gif" width="45%" height="45%" border=2px style="border-radius:9px; margin:2px">](https://aman-arora.space)
 
 <hr width=90%>
 
-#### 🔭 Find out more about me at: [aman-arora.space](https://aman-arora.space)
+#### 🔭 Find out more about me by clicking on the GIF above.
   
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848)](https://github.com/amanarora9848)  
