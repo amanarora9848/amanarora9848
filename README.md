@@ -22,8 +22,8 @@
 <hr width=90%>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848)](https://github.com/amanarora9848)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848&langs_count=6)](https://github.com/amanarora9848)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanarora9848)](https://github.com/amanarora9848)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848&layout=compact&langs_count=6)](https://github.com/amanarora9848)
 
 
 #### 🙏 Thanks for visiting!
