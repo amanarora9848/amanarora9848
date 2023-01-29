@@ -27,7 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=amanarora9848&label=VIEWS&style=for-the-badge&color=2b0c91)
 
-#### 🙏 Thanks for visiting!
+#### Thanks for visiting!
 
 </p>
 <!--</div>-->
