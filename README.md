@@ -27,10 +27,10 @@
 ---
 <table width="100%" align="center"> 
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=amanarora9848" />
     </td>
-    <td width="50%"> 
+    <td width="50%" align="center"> 
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848&layout=compact&langs_count=6" />
     </td>
   </tr>
