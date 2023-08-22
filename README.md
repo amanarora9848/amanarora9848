@@ -1,38 +1,20 @@
-<!-- <div align="center">
-  <h3> 🚗 My work on <a href="https://www.automotivelinux.org/">Automotive Grade Linux</a> at the 
-  <a href="https://gerrit.automotivelinux.org/gerrit/q/status:merged+owner:amanarora_09">AGL Gerrit Code Review</a> </h3>
-</div> -->
-  
-  
-<div align="center">
-  <h1> Hi, I'm Aman Arora. 👋 Thanks for visiting!</h1>
+<div>
+  <h1> Hi there, I'm Aman! 👋</h1>
 </div>
 
-<div align="center">
-  <h3> 🤖 Currently: <a href="https://jemaro.ec-nantes.fr/english-version/about">JEMARO</a> (M.S., Robotics) Student at University of Genoa, Italy </h3>
+<div>
+  <p> 🤖 Currently pursuing a Master's in Robotics as part of the <a href="https://jemaro.ec-nantes.fr/english-version/about">JEMARO</a> (Japan-Europe Master on Advanced Robotics) Program at Keio University, Japan 🇯🇵, where I'm focusing on field and space robotics as part of <b>Space Robotics Group (Ishigami Laboratory)</b>. I completed my M1 year at the University of Genoa, Italy 🇮🇹.</p>
 </div>
 
----
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <a href="https://aman-arora.space/">
+    <img src="planets.gif" alt="Animated Planets" width="350" style="border-radius: 9px;">
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://aman-arora.space">
-        <img src="planets.gif" width="100%" height="100%" style="border-radius:9px; margin:2px">
-      </a>
-    </td>
-    <td valign="top">
-      <div align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=amanarora9848" />
-      </div>
-      <div align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848&layout=compact&langs_count=6" />
-      </div>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=amanarora9848&label=VIEWS&style=for-the-badge&color=2b0c91">
-      </div>
-    </td>
-  </tr>
-</table>
+<hr>
 
----
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanarora9848" alt="GitHub Stats" style="max-height: 400px; width: 445px; margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848&layout=compact&langs_count=6" alt="Top Languages" style="max-height: 180px; width: 350px;">
+</div>
