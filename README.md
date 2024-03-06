@@ -14,7 +14,7 @@
 
 <hr>
 
-<div>
+<!--<div>
   <img src="https://github-readme-stats.vercel.app/api?username=amanarora9848" alt="GitHub Stats" style="max-height: 400px; width: 445px; margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanarora9848&layout=compact&langs_count=6" alt="Top Languages" style="max-height: 180px; width: 350px;">
-</div>
+</div>-->
