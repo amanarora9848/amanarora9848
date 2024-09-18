@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p> 🤖 Currently pursuing a Master's in Robotics as part of the <a href="https://jemaro.ec-nantes.fr/english-version/about">JEMARO</a> (Japan-Europe Master on Advanced Robotics) Program at Keio University, Japan 🇯🇵, where I'm focusing on field and space robotics as part of <b><a href="http://www.srg.mech.keio.ac.jp/">Space Robotics Group (Ishigami Laboratory)</a></b>. I completed my M1 year at the University of Genoa, Italy 🇮🇹.</p>
+  <p> 🤖 I'm a Master's in Robotics, a graduate of the <a href="https://jemaro.ec-nantes.fr/english-version/about">JEMARO</a> (Japan-Europe Master on Advanced Robotics) Program at Keio University, Japan 🇯🇵, where my research focus was on field and space robotics as part of <b><a href="http://www.srg.mech.keio.ac.jp/">Space Robotics Group (Ishigami Laboratory)</a></b>. I completed my M1 year at the University of Genoa, Italy 🇮🇹.</p>
 </div>
 
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
